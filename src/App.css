@@ -1,4 +1,4 @@
-* {
+/* * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -40,4 +40,14 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+} */
+.App{
+  text-align: center;
+  background-color: black;
+}
+
+.particleBackground{
+  justify-content: center;
+  background-image: url("https://i.ibb.co/M2tppVs/angryimg-3.png");
+  background-size: cover;
 }
